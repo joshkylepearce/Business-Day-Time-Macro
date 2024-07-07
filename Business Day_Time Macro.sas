@@ -1,6 +1,6 @@
 /************************************************************************************
 ***** Program: 	Business Day/Time Macro	*****
-***** Author:	joshkylepearce			*****
+***** Author:	joshkylepearce		*****
 ************************************************************************************/
 
 /************************************************************************************
@@ -60,8 +60,8 @@ not a weekend or public holiday, and also within user-inputted
 business hours (e.g. 9am-5pm).
 
 Input Parameters:
-1. 	input_data		- The name of the input dataset.
-2. 	date_var		- The name of the date/datetime variable.
+1. 	input_data	- The name of the input dataset.
+2. 	date_var	- The name of the date/datetime variable.
 3.	business_start	- The first hour of the business day.
 4.	business_end	- The last hour of the business day.
 
